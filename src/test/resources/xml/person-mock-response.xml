@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<mock_person>
+    <mock_user>
+        <mock_user_first_name>James</mock_user_first_name>
+        <mock_user_last_name>Butterburg</mock_user_last_name>
+    </mock_user>
+    <mock_address>
+        <mock_line1>1 MilesMere Two MilesAsh</mock_line1>
+        <mock_line2>MiltonKeynes</mock_line2>
+        <mock_country>UK</mock_country>
+        <mock_postcode>70116</mock_postcode>
+    </mock_address>
+</mock_person>

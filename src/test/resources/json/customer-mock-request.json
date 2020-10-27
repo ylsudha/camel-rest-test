@@ -1,0 +1,12 @@
+{
+  "customer": {
+    "first_name": "James",
+    "last_name": "Butterburg",
+    "address": {
+      "street": "1 MilesMere Two MilesAsh",
+      "city": "MiltonKeynes",
+      "country": "UK",
+      "zip": "70116"
+    }
+  }
+}

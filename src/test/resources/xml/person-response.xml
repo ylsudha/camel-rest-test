@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<person>
+    <user>
+        <user_first_name>James</user_first_name>
+        <user_last_name>Butterburg</user_last_name>
+    </user>
+    <address>
+        <line1>1 MilesMere Two MilesAsh</line1>
+        <line2>MiltonKeynes</line2>
+        <country>UK</country>
+        <postcode>70116</postcode>
+    </address>
+</person>

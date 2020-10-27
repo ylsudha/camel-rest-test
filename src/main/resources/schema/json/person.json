@@ -1,0 +1,56 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "person": {
+      "type": "object",
+      "properties": {
+        "address": {
+          "type": "object",
+          "properties": {
+            "line1": {
+              "type": "string"
+            },
+            "line2": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "postcode": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "line1",
+            "line2",
+            "country",
+            "postcode"
+          ]
+        },
+        "user": {
+          "type": "object",
+          "properties": {
+            "user_first_name": {
+              "type": "string"
+            },
+            "user_last_name": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "user_first_name",
+            "user_last_name"
+          ]
+        }
+      },
+      "required": [
+        "address",
+        "user"
+      ]
+    }
+  },
+  "required": [
+    "person"
+  ]
+}

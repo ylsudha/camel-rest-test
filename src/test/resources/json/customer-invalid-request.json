@@ -1,0 +1,11 @@
+{
+  "Organisation": {
+    "name": "Hay pay",
+    "address": {
+      "street": "1 MilesMere Two MilesAsh",
+      "city": "MiltonKeynes",
+      "country": "UK",
+      "zip": "70116"
+    }
+  }
+}
